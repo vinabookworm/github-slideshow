@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Simplicity is the art of sophistication
 Use the left arrow to go back!
